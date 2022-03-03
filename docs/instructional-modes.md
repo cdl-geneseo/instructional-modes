@@ -134,7 +134,7 @@ Learners generally retain intellectual property in original content that they cr
 
 #### Sample documents from other SUNY campuses
 
--   SUNY Oneonta, [Distance Education Policy]](https://suny.oneonta.edu/policy-library/policies-z/distance-education-policy) and information on [[Online Teaching Certification](https://suny.oneonta.edu/teaching-learning-technology-center/online-teaching-certification)
+-   SUNY Oneonta, [Distance Education Policy](https://suny.oneonta.edu/policy-library/policies-z/distance-education-policy) and information on [Online Teaching Certification](https://suny.oneonta.edu/teaching-learning-technology-center/online-teaching-certification)
 
 -   Buffalo State, [Online Course Development Certificate](https://it.buffalostate.edu/ocdcertificate)
 
@@ -144,9 +144,9 @@ Learners generally retain intellectual property in original content that they cr
 
 #### Higher education generally
 
--   [WICHE]](https://www.wiche.edu/) (Western Interstate Commission for Higher Education) Cooperative for Educational Technologies ([WCET](https://wcet.wiche.edu/)), [Managing Online Education Survey](https://wcet.wiche.edu/networks/network-archives/managing-online-education-survey/). In the most recent survey available on the site, conducted in 2013, more than 85 percent of responding institutions had "implemented some form of 'standards' or 'best practices' in their online courses." Distance education standards from the U.S. regional accrediting agencies had been adopted (either partially or fully) "by 58 percent of the respondents, followed by state or provincial standards at 49 percent, and Quality Matters at 42 percent."
+-   [WICHE](https://www.wiche.edu/) (Western Interstate Commission for Higher Education) Cooperative for Educational Technologies ([WCET](https://wcet.wiche.edu/)), [Managing Online Education Survey](https://wcet.wiche.edu/networks/network-archives/managing-online-education-survey/). In the most recent survey available on the site, conducted in 2013, more than 85 percent of responding institutions had "implemented some form of 'standards' or 'best practices' in their online courses." Distance education standards from the U.S. regional accrediting agencies had been adopted (either partially or fully) "by 58 percent of the respondents, followed by state or provincial standards at 49 percent, and Quality Matters at 42 percent."
 
--   Tanya Joosten, Rachel Cusatis, Lindsey Harness, ["A Cross-institutional Study of Instructional Characteristics and Student Outcomes: Are Quality Indicators of Online Courses Able to Predict Student Success?"]](https://olj.onlinelearningconsortium.org/index.php/olj/article/view/1432) *Online Learning* Vol. 23, no. 4 (2019). Research produced by the [National Research Center for Distance Education and Technological Advancements (DETA)](https://detaresearch.org/) at the University of Wisconsin-Milwaukee.
+-   Tanya Joosten, Rachel Cusatis, Lindsey Harness, ["A Cross-institutional Study of Instructional Characteristics and Student Outcomes: Are Quality Indicators of Online Courses Able to Predict Student Success?"](https://olj.onlinelearningconsortium.org/index.php/olj/article/view/1432) *Online Learning* Vol. 23, no. 4 (2019). Research produced by the [National Research Center for Distance Education and Technological Advancements (DETA)](https://detaresearch.org/) at the University of Wisconsin-Milwaukee.
 
 -   DETA [Online Course Quality Indicators](https://drive.google.com/file/d/1MxgRE6jdrZUGikwugLZ3CSUQBugf6Dx3/view) (pdf).
 
