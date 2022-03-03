@@ -1,3 +1,8 @@
+---
+title: Instructional Modes at Geneseo
+layout: default
+---
+
 ## Preamble
 
 As technology opens up new ways for faculty and learners to interact, it has become common to distinguish various modes (sometimes \"modalities\") of instruction. Recognizing that these modes are neither labeled nor defined consistently by educators and institutions, this document attempts to bring clarity to our local conversations by establishing a short local lexicon that is at once broadly aligned with common usage and tailored to our own institutional purposes.
