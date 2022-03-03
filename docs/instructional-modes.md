@@ -10,7 +10,7 @@ The document also articulates practices designed to ensure that as Geneseo expan
 
 ## Definitions
 
-The following local definitions are consistent with, though not identical to, definitions from [[SUNY and IPEDS]{.underline}](https://online.suny.edu/wp-content/uploads/2020/05/SUNY-and-IPEDS-Online-Learning-Definitions-May-2020.pdf) (pdf).
+The following local definitions are consistent with, though not identical to, definitions from [SUNY and IPEDS](https://online.suny.edu/wp-content/uploads/2020/05/SUNY-and-IPEDS-Online-Learning-Definitions-May-2020.pdf) (pdf).
 
 ### Face-to-Face (F2F)
 
@@ -40,7 +40,7 @@ In any given term, a request to put a course in the schedule in any instructiona
 
 Deans and department chairs may request to schedule **online courses** to be taught by faculty who:
 
--   Have successfully completed the college's [[Online Teaching Institute]{.underline}](https://www.geneseo.edu/cdl/online-learning) or approved equivalent
+-   Have successfully completed the college's [Online Teaching Institute](https://www.geneseo.edu/cdl/online-learning) or approved equivalent
 
 -   Have engaged in additional professional development, as needed, in order to remain abreast of changes to learning platforms and technologies
 
@@ -88,7 +88,7 @@ In keeping with human-centered and equity-minded practice, the following apply:
 
 -   Wherever practicable, instructors should select tools based on principles of universal design, and should employ the same principles in the design of courses.
 
--   In general, instructors may not require learners to purchase computer hardware or software beyond the [[minimum specifications in the college's laptop policy]{.underline}](https://www.geneseo.edu/cit/laptop_requirement). Exceptions may be made when there is a clear and close connection between the hardware or software in question and a narrowly defined learning outcome of the course. Exceptions must be approved by the instructor's dean or department chair, who must inform the Office of the Provost of the decision. Schools and departments where it is common to require that students purchase hardware or software may obtain ongoing approval for a list of such requirements that the school or department keeps up to date. Hardware and software costs associated with a course or program must be transparent to learners at the time of course registration or program enrollment.
+-   In general, instructors may not require learners to purchase computer hardware or software beyond the [minimum specifications in the college's laptop policy](https://www.geneseo.edu/cit/laptop_requirement). Exceptions may be made when there is a clear and close connection between the hardware or software in question and a narrowly defined learning outcome of the course. Exceptions must be approved by the instructor's dean or department chair, who must inform the Office of the Provost of the decision. Schools and departments where it is common to require that students purchase hardware or software may obtain ongoing approval for a list of such requirements that the school or department keeps up to date. Hardware and software costs associated with a course or program must be transparent to learners at the time of course registration or program enrollment.
 
 -   Instructors may not require learners to sign up for any technology service for which the learner must pay a fee, with the same exceptions described above in regard to hardware and software purchases.
 
@@ -100,7 +100,7 @@ In keeping with human-centered and equity-minded practice, the following apply:
 
 ### Evaluation of faculty instruction
 
-The appendix to the current [[Personnel Evaluation Form]{.underline}](https://wiki.geneseo.edu/download/attachments/109184288/PER%20form%20with%20Instructions%20and%20Appendix%20-%20Revised%20May%202019.docx?version=1&modificationDate=1600701950234&api=v2), which presents itself as "neither exhaustive nor exclusive," lists various "sources of information" relevant to the evaluation of a faculty member's teaching, together with criteria for evaluating "contributions to teaching." Although enumerated with F2F teaching in mind, many of the sources and criteria apply equally well across all instructional modes. For example, under "Sources of Information":
+The appendix to the current [Personnel Evaluation Form](https://wiki.geneseo.edu/download/attachments/109184288/PER%20form%20with%20Instructions%20and%20Appendix%20-%20Revised%20May%202019.docx?version=1&modificationDate=1600701950234&api=v2), which presents itself as "neither exhaustive nor exclusive," lists various "sources of information" relevant to the evaluation of a faculty member's teaching, together with criteria for evaluating "contributions to teaching." Although enumerated with F2F teaching in mind, many of the sources and criteria apply equally well across all instructional modes. For example, under "Sources of Information":
 
 -   A portfolio of teaching materials, including course syllabi, course outlines, lecture outlines, class activities, homework assignments, representative exams, etc.
 
@@ -118,13 +118,13 @@ The answer to "where" is the faculty member's online course instance, whether in
 
 The answer to "what" might include such course features as prominently displayed learning objectives; well-designed navigation menus; helpful and readily accessible information about how to communicate with the instructor; easy-to-find and easy-to-understand timetables for course activities, exams, and due dates; clear statements of grading criteria; engagement-oriented assignments---for example, threaded discussion forums, collaborative annotation, or group projects---and components intended to promote a sense of inclusion, such as a "Welcome" module at the beginning of the course that introduces the faculty member and gives learners the opportunity to introduce themselves.
 
-Although rubrics abound for compiling evidence of a well-designed and effective online course---and among these, the [[SUNY OSCQR]{.underline}](https://oscqr.suny.edu/) rubric is one of the most useful---colleagues, deans, department chairs, committees, and others engaged in personnel review should not take a "check the boxes" approach to evaluating online instruction any more than they would for evaluating instruction that takes place face-to-face. Both courses and teachers are more than the sum of their parts.
+Although rubrics abound for compiling evidence of a well-designed and effective online course---and among these, the [SUNY OSCQR](https://oscqr.suny.edu/) rubric is one of the most useful---colleagues, deans, department chairs, committees, and others engaged in personnel review should not take a "check the boxes" approach to evaluating online instruction any more than they would for evaluating instruction that takes place face-to-face. Both courses and teachers are more than the sum of their parts.
 
 ### Intellectual property
 
-Consistent with Geneseo Policy 4-405 and [[Article XI, Title J of the Policies of the Board of Trustees]{.underline}](https://www.suny.edu/media/suny/content-assets/documents/boardoftrustees/SUNY-BOT-Policies-June2014.pdf), instructors generally retain intellectual property in original teaching materials that they create for courses in any of the instructional modes defined in this document, including original written explanatory content, original videos, and original images. However, in cases where instructors are employed or directed within the scope of their employment to produce specific work subject to copyright, the University shall have the right to publish such work without copyright or to copyright it in its own name. The copyright will also be subject to any contractual arrangements by the University for work in the course of which the writing was done.
+Consistent with Geneseo Policy 4-405 and [Article XI, Title J of the Policies of the Board of Trustees](https://www.suny.edu/media/suny/content-assets/documents/boardoftrustees/SUNY-BOT-Policies-June2014.pdf), instructors generally retain intellectual property in original teaching materials that they create for courses in any of the instructional modes defined in this document, including original written explanatory content, original videos, and original images. However, in cases where instructors are employed or directed within the scope of their employment to produce specific work subject to copyright, the University shall have the right to publish such work without copyright or to copyright it in its own name. The copyright will also be subject to any contractual arrangements by the University for work in the course of which the writing was done.
 
-In the absence of any contractual arrangement that prohibits it, instructors are free to apply a [[Creative Commons license]{.underline}](https://creativecommons.org/about/cclicenses/) to original materials that they create, thereby making it easier for other instructors to benefit from their work.
+In the absence of any contractual arrangement that prohibits it, instructors are free to apply a [Creative Commons license](https://creativecommons.org/about/cclicenses/) to original materials that they create, thereby making it easier for other instructors to benefit from their work.
 
 Learners generally retain intellectual property in original content that they create in response to course assignments. Such content may not be shared publicly without the creator's consent.
 
@@ -134,23 +134,23 @@ Learners generally retain intellectual property in original content that they cr
 
 #### Sample documents from other SUNY campuses
 
--   SUNY Oneonta, [[Distance Education Policy]{.underline}](https://suny.oneonta.edu/policy-library/policies-z/distance-education-policy) and information on [[Online Teaching Certification]{.underline}](https://suny.oneonta.edu/teaching-learning-technology-center/online-teaching-certification)
+-   SUNY Oneonta, [Distance Education Policy]](https://suny.oneonta.edu/policy-library/policies-z/distance-education-policy) and information on [[Online Teaching Certification](https://suny.oneonta.edu/teaching-learning-technology-center/online-teaching-certification)
 
--   Buffalo State, [[Online Course Development Certificate]{.underline}](https://it.buffalostate.edu/ocdcertificate)
+-   Buffalo State, [Online Course Development Certificate](https://it.buffalostate.edu/ocdcertificate)
 
--   SUNY New Paltz, [[Faculty Certification for Online and Hybrid Course Development]{.underline}](https://www.newpaltz.edu/media/regional-education/Procedures%20for%20Online%20Hybrid%20Certification%20and%20Recertification%20(1).pdf)
+-   SUNY New Paltz, [Faculty Certification for Online and Hybrid Course Development](https://www.newpaltz.edu/media/regional-education/Procedures%20for%20Online%20Hybrid%20Certification%20and%20Recertification%20(1).pdf)
 
--   SUNY Fredonia, [[Online Course Preparation]{.underline}](https://www.fredonia.edu/academics/online-learning/course-preparation)
+-   SUNY Fredonia, [Online Course Preparation](https://www.fredonia.edu/academics/online-learning/course-preparation)
 
 #### Higher education generally
 
--   [[WICHE]{.underline}](https://www.wiche.edu/) (Western Interstate Commission for Higher Education) Cooperative for Educational Technologies ([[WCET]{.underline}](https://wcet.wiche.edu/)), [[Managing Online Education Survey]{.underline}](https://wcet.wiche.edu/networks/network-archives/managing-online-education-survey/). In the most recent survey available on the site, conducted in 2013, more than 85 percent of responding institutions had "implemented some form of 'standards' or 'best practices' in their online courses." Distance education standards from the U.S. regional accrediting agencies had been adopted (either partially or fully) "by 58 percent of the respondents, followed by state or provincial standards at 49 percent, and Quality Matters at 42 percent."
+-   [WICHE]](https://www.wiche.edu/) (Western Interstate Commission for Higher Education) Cooperative for Educational Technologies ([WCET](https://wcet.wiche.edu/)), [Managing Online Education Survey](https://wcet.wiche.edu/networks/network-archives/managing-online-education-survey/). In the most recent survey available on the site, conducted in 2013, more than 85 percent of responding institutions had "implemented some form of 'standards' or 'best practices' in their online courses." Distance education standards from the U.S. regional accrediting agencies had been adopted (either partially or fully) "by 58 percent of the respondents, followed by state or provincial standards at 49 percent, and Quality Matters at 42 percent."
 
--   Tanya Joosten, Rachel Cusatis, Lindsey Harness, [["A Cross-institutional Study of Instructional Characteristics and Student Outcomes: Are Quality Indicators of Online Courses Able to Predict Student Success?"]{.underline}](https://olj.onlinelearningconsortium.org/index.php/olj/article/view/1432) *Online Learning* Vol. 23, no. 4 (2019). Research produced by the [[National Research Center for Distance Education and Technological Advancements (DETA)]{.underline}](https://detaresearch.org/) at the University of Wisconsin-Milwaukee.
+-   Tanya Joosten, Rachel Cusatis, Lindsey Harness, ["A Cross-institutional Study of Instructional Characteristics and Student Outcomes: Are Quality Indicators of Online Courses Able to Predict Student Success?"]](https://olj.onlinelearningconsortium.org/index.php/olj/article/view/1432) *Online Learning* Vol. 23, no. 4 (2019). Research produced by the [National Research Center for Distance Education and Technological Advancements (DETA)](https://detaresearch.org/) at the University of Wisconsin-Milwaukee.
 
--   DETA [[Online Course Quality Indicators]{.underline}](https://drive.google.com/file/d/1MxgRE6jdrZUGikwugLZ3CSUQBugf6Dx3/view) (pdf).
+-   DETA [Online Course Quality Indicators](https://drive.google.com/file/d/1MxgRE6jdrZUGikwugLZ3CSUQBugf6Dx3/view) (pdf).
 
--   [[Online Learning Consortium]{.underline}](https://onlinelearningconsortium.org/) (OLC), [[Scorecard for the Administration of Online Programs]{.underline}](https://onlinelearningconsortium.org/consult/olc-quality-scorecard-administration-online-programs/). Under the heading "Course Development/Instructional Design," includes the following indicators of quality:
+-   [Online Learning Consortium](https://onlinelearningconsortium.org/) (OLC), [Scorecard for the Administration of Online Programs](https://onlinelearningconsortium.org/consult/olc-quality-scorecard-administration-online-programs/). Under the heading "Course Development/Instructional Design," includes the following indicators of quality:
 
     -   Guidelines regarding minimum requirements for course development, design, and delivery of online instruction (such as course syllabus elements, course materials, assessment strategies, faculty feedback) are in place, periodically reviewed and followed.
 
@@ -168,8 +168,8 @@ Learners generally retain intellectual property in original content that they cr
 
 #### SUNY Geneseo
 
--   [[Course Readiness Checklist]{.underline}](https://wiki.geneseo.edu/display/cit/Canvas+Self+Help+Documents?preview=%2F110330071%2F156506486%2Fcourse+readiness+checklist+v3.pdf) (pdf)
+-   [Course Readiness Checklist](https://wiki.geneseo.edu/display/cit/Canvas+Self+Help+Documents?preview=%2F110330071%2F156506486%2Fcourse+readiness+checklist+v3.pdf) (pdf)
 
 ### Privacy
 
-The literature on student privacy in online courses, especially in relation to academic integrity, is extensive. See the SUNY Geneseo [[Center for Digital Learning's Zotero Library]{.underline}](https://www.zotero.org/groups/2538807/cdl-geneseo/collections/ED2L4B5D) for examples.
+The literature on student privacy in online courses, especially in relation to academic integrity, is extensive. See the SUNY Geneseo [Center for Digital Learning's Zotero Library](https://www.zotero.org/groups/2538807/cdl-geneseo/collections/ED2L4B5D) for examples.
