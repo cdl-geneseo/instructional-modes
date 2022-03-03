@@ -3,7 +3,14 @@ title: Instructional Modes at Geneseo
 layout: default
 ---
 
-## Preamble
+## Contents
+
+- [Preamble](#preamble)  
+- [Definitions](#definitions)  
+- [Practice](#practice)  
+- [Resources](#resources)  
+
+## <a name="preamble"></a> Preamble
 
 As technology opens up new ways for faculty and learners to interact, it has become common to distinguish various modes (sometimes \"modalities\") of instruction. Recognizing that these modes are neither labeled nor defined consistently by educators and institutions, this document attempts to bring clarity to our local conversations by establishing a short local lexicon that is at once broadly aligned with common usage and tailored to our own institutional purposes.
 
@@ -13,7 +20,7 @@ The document also articulates practices designed to ensure that as Geneseo expan
 
 **Another core premise** is that practices regarding such matters as the college\'s balance of offerings across instructional modes, faculty\'s distribution of load across these modes, and the evaluation of online instruction should remain flexible and, to the extent possible, put power in the hands of schools and departments to make decisions and set expectations in accordance with their program objectives and disciplinary methods. The document does not lay down many hard-and-fast rules, and for almost every rule it stipulates, it describes grounds for appropriate exceptions. More detailed guidance might appear to offer a smoother, more easily navigable route forward for the college, but it would do so at the price of forcing everyone along the same narrow path.
 
-## Definitions
+## <a name="definitions"></a> Definitions
 
 The following local definitions are consistent with, though not identical to, definitions from [SUNY and IPEDS](https://online.suny.edu/wp-content/uploads/2020/05/SUNY-and-IPEDS-Online-Learning-Definitions-May-2020.pdf) (pdf).
 
@@ -37,7 +44,7 @@ Courses are described as "technology-enhanced" when computer-mediated participat
 
 Courses and programs are described as "HyFlex" if learners in them have a choice between computer-mediated and F2F participation. Depending on the particular course or program, "HyFlex" may mean that *every* learner may choose to participate in *any* part of direct instruction either F2F or online, or it may mean that *some* learners will participate F2F while others participate online.
 
-## Practice
+## <a name="practice"></a> Practice
 
 ### Scheduling
 
@@ -133,7 +140,7 @@ In the absence of any contractual arrangement that prohibits it, instructors are
 
 Learners generally retain intellectual property in original content that they create in response to course assignments. Such content may not be shared publicly without the creator's consent.
 
-## Resources
+## <a name="resources"></a> Resources
 
 ### Faculty professional development and course design standards
 
