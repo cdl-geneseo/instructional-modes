@@ -1,9 +1,10 @@
 ## <a name="contents"></a> Contents
 
-- [Preamble](#preamble)  
-- [Definitions](#definitions)  
-- [Practice](#practice)  
-- [Resources](#resources)  
+- [Preamble](#preamble)
+- [Definitions](#definitions)
+- [Practice](#practice)
+- [Resources](#resources)
+- [Offer feedback](#feedback)
 
 ## <a name="preamble"></a> Preamble
 
@@ -180,3 +181,7 @@ Learners generally retain intellectual property in original content that they cr
 ### Privacy
 
 The literature on student privacy in online courses, especially in relation to academic integrity, is extensive. See the SUNY Geneseo [Center for Digital Learning's Zotero Library](https://www.zotero.org/groups/2538807/cdl-geneseo/collections/ED2L4B5D) for examples.
+
+## <a name="feedback"></a> Offer feedback [&#8673;](#contents)
+
+We welcome your feedback on this document. Use <a href="https://forms.gle/7WyyjajGYijPfFTb8" target="_blank">this form</a> to provide it.
