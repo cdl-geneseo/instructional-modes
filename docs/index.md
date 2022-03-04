@@ -47,7 +47,7 @@ Courses are described as "technology-enhanced" when computer-mediated participat
 
 Courses and programs are described as "HyFlex" if learners in them have a choice between computer-mediated and F2F participation. Depending on the particular course or program, "HyFlex" may mean that *every* learner may choose to participate in *any* part of direct instruction either F2F or online, or it may mean that *some* learners will participate F2F while others participate online.
 
-## <a name="practice"></a> Practice [&#8673;](#contents)
+## <a name="practices"></a> Practice [&#8673;](#contents)
 
 ### Scheduling
 
@@ -145,7 +145,7 @@ In the absence of any contractual arrangement that prohibits it, instructors are
 
 Learners generally retain intellectual property in original content that they create in response to course assignments. Such content may not be shared publicly without the creator's consent.
 
-## <a name="recommendations"></a> Recommendations [&#8673;](#recommendations)
+## <a name="recommendations"></a> Recommendations [&#8673;](#contents)
 
 ### Scheduling
 
