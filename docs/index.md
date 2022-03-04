@@ -9,13 +9,13 @@
 
 ## <a name="what"></a> What is this document?
 
-As technology opens up new ways for teachers and learners to interact, and as Geneseo begins to think strategically about the resulting opportunities in relation to our mission and values, it is essential that we be guided by a common vocabulary and a shared set of practices.
+As technology opens up new ways for teachers and learners to interact, and as Geneseo begins to think strategically about the resulting opportunities in relation to our mission and values, it is essential that we be guided by a **common vocabulary** and a **shared set of practices**.
 
 Recognizing that the most common instructional modes available today do not have universally accepted defintions, this document proposes [local definitions](#definitions) that are at once broadly aligned with common usage and tailored to our own institutional purposes. 
 
 The document also articulates [practices](#practices) designed to ensure that as Geneseo expands its range of instructional modes, it does so in ways that **advance the development of both faculty and learners, promote equity, respect privacy, maintain accessibility, and preserve Geneseo\'s character** as a primarily residential college that cherishes close working relationships among faculty, staff, administrators, and learners.
 
-Finally, the document extracts from those practices a number of nuts-and-bolts [recommendations](#recommendations) to schools, departments, and campus governance.
+Finally, the document extracts from those practices a number of nuts-and-bolts [recommendations](#recommendations) to schools, departments, campus governance, and academic affairs administration.
 
 A brief list of [resources](#resources) at the end of the document provides a point of comparison between some of the practices described here and those adopted within and beyond the SUNY system.
 
@@ -73,7 +73,7 @@ Deans and department chairs may request to schedule **hybrid** courses to be tau
 
 In proposing to schedule a course in any mode, a dean or department chair must consider whether the resulting array of options for learners serves their best interest; the Office of the Provost will do the same in deciding whether to include a specific course in the schedule. In particular, given Geneseo's identity as a primarily residential college, deans, department chairs, and the provost's office must consider whether a given semester's course schedule offers adequate opportunity to learners for F2F instruction.
 
-Deans, department chairs, and the provost's office must also consider other factors: the impact of a faculty member's individual schedule on that faculty member's campus presence, for example, or the amount of time typically required to teach an online course successfully. A faculty member's combination of instructional modes---either in a given term or across terms---should not be such as to endanger the college's reliance on close working relationships, whether among colleagues or between faculty and learners.
+Deans, department chairs, and the provost's office must also consider other factors: the impact of a faculty member's individual schedule on that faculty member's campus presence, for example, or the amount of time typically required to teach an online course successfully. A faculty member's combination of instructional modes&mdash;either in a given term or across terms&mdash;should not be such as to endanger the college's reliance on close working relationships, whether among colleagues or between faculty and learners.
 
 No one formula for distributing faculty's teaching responsibilities across different instructional modes, or for distributing a school or department's offerings across modes, will be appropriate for the entire college. Schools and departments are encouraged to develop their own distribution plans in consultation with the Office of the Provost. These plans need not bind schools and departments rigidly as they develop their schedules from semester to semester, but they will aid in arriving quickly each semester at a slate of offerings that works well for schools, departments, and faculty while also serving the needs of learners. In general, no more than 50% of a faculty member's load in any given semester should be online.
 
@@ -127,7 +127,7 @@ And in the "Classroom Effectiveness" section under "Contributions to Teaching":
 
 > Clarifies purposes and procedures of small-group, laboratory, practica, or studio activities (if used). Clearly presents topics and key points of lectures (if used). Clarifies relevance and contributions to course objectives for lectures and/or activities. Invites students\' questions and/or comments as appropriate. Responds to students' questions appropriately. Considers and adapts to the needs of a diverse population of students. Provides timely feedback on learner performance.
 
-While the appendix is not attached to the forms for adjunct lecturers or visiting faculty, the sources and criteria in it that touch on key qualities of an effective pedagogue ---high standards, thoughtfulness, clarity, responsiveness, respect for diversity, and so on---apply equally to instructors of all ranks.
+While the appendix is not attached to the forms for adjunct lecturers or visiting faculty, the sources and criteria in it that touch on key qualities of an effective pedagogue&mdash;high standards, thoughtfulness, clarity, responsiveness, respect for diversity, and so on&mdash;apply equally to instructors of all ranks.
 
 In evaluating faculty's teaching in modes other than F2F, colleagues, committees, and administrators should look for evidence of these same qualities. Naturally, in the case of online courses it will not be possible to find that evidence in a physical classroom. Where, then, should evaluators look? And if they are not looking to see whether, say, a faculty member engages learners in lively face-to-face conversation, makes good use of classroom affordances (e.g., seating, whiteboard), and invites questions, just what should they be looking for?
 
@@ -172,7 +172,21 @@ Schools and departments should discuss what mix of instructional modes best fits
 
 ### Evaluation of online teaching
 
+As mentioned earlier, the college already has tools for evaluating and documenting the effectiveness of a faculty member's teaching. These tools invoke broad principles of good pedagogy that hold across all instructional modes. To evaluate online teaching, no new principles are required, but it is necessary to seek evidence of their application in new places.
 
+Schools and departments should:
+
+- Establish discipline-specific inventories of evidence that faculty under review should assemble for self-reflective reporting on their online pedagogical practice
+- Provide guidance to faculty under review respecting how to organize and present this evidence
+- Ensure that inventories and guidance are transparent and widely shared, and that personnel committees understand how to use evidence of effective online teaching and write about it in their reviews
+- Share documentation of their process for gathering and evaluating evidence of effective online teaching with the Office of the Provost
+
+Campus governance should:
+
+- Consider whether to adopt policies regarding the documentation of effective online teaching parallel to those it has previously adopted for classroom observation
+- Require professional development for the Faculty Personnel Committee to ensure that the committee members are able to evaluate documentation of effective online teaching
+
+Academic affairs administration should require professional development for deans and department chairs to ensure that they are able to evaluate documentation of effective online teaching.
 
 ## <a name="resources"></a> Resources [&#8673;](#contents)
 
