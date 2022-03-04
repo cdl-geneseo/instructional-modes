@@ -1,8 +1,3 @@
----
-title: Instructional Modes at Geneseo
-layout: default
----
-
 ## <a name="contents"></a> Contents
 
 - [Preamble](#preamble)  
