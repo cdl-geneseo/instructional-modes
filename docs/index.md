@@ -1,20 +1,27 @@
 ## <a name="contents"></a> Contents
 
-- [Preamble](#preamble)
+- [What is this document?](#what)
 - [Definitions](#definitions)
-- [Practice](#practice)
+- [Practices](#practices)
+- [Recommendations](#recommendations)
 - [Resources](#resources)
 - [Offer feedback](#feedback)
 
-## <a name="preamble"></a> Preamble
+## <a name="what"></a> What is this document?
 
-As technology opens up new ways for faculty and learners to interact, it has become common to distinguish various modes (sometimes \"modalities\") of instruction. Recognizing that these modes are neither labeled nor defined consistently by educators and institutions, this document attempts to bring clarity to our local conversations by establishing a short local lexicon that is at once broadly aligned with common usage and tailored to our own institutional purposes.
+As technology opens up new ways for teachers and learners to interact, and as Geneseo begins to think strategically about the resulting opportunities in relation to our mission and values, it is essential that we be guided by a common vocabulary and a shared set of practices.
 
-The document also articulates practices designed to ensure that as Geneseo expands its range of instructional modes, it does so in ways that **advance the development of both faculty and learners, promote equity, respect privacy, maintain accessibility, and preserve Geneseo\'s character** as a primarily residential college that cherishes close working relationships among faculty, staff, administrators, and learners.
+Recognizing that the most common instructional modes available today do not have universally accepted defintions, this document proposes [local definitions](#definitions) that are at once broadly aligned with common usage and tailored to our own institutional purposes. 
 
-**A core premise** of this document is that while the principles of good teaching do not vary across instructional modes, the effective implementation of these principles does. At present, most faculty embark on their careers as face-to-face teachers having had years of experience as face-to-face learners. Typically, they model their pedagogy on their firsthand experience of the best teachers they have had. In a small though growing number of cases, they have also had some formal introduction to effective face-to-face teaching methods. By contrast, very few faculty have had extensive experience themselves as online learners, let alone a formal introduction to effective online pedagogy. In order to promote success for both faculty and learners at Geneseo, it is necessary that faculty fully understand how the affordances of an online learning environment differ from those of a physical classroom. It is also necessary that the college\'s online learning experiences be designed in ways that leverage the affordances of the online environment and replicate, as nearly as possible, face-to-face affordances that are crucial to learning, such as frequent, low-barrier, personalized interaction between instructor and learners.
+The document also articulates [practices](#practices) designed to ensure that as Geneseo expands its range of instructional modes, it does so in ways that **advance the development of both faculty and learners, promote equity, respect privacy, maintain accessibility, and preserve Geneseo\'s character** as a primarily residential college that cherishes close working relationships among faculty, staff, administrators, and learners.
 
-**Another core premise** is that practices regarding such matters as the college\'s balance of offerings across instructional modes, faculty\'s distribution of load across these modes, and the evaluation of online instruction should remain flexible and, to the extent possible, put power in the hands of schools and departments to make decisions and set expectations in accordance with their program objectives and disciplinary methods. The document does not lay down many hard-and-fast rules, and for almost every rule it stipulates, it describes grounds for appropriate exceptions. More detailed guidance might appear to offer a smoother, more easily navigable route forward for the college, but it would do so at the price of forcing everyone along the same narrow path.
+Finally, the document extracts from those practices a number of nuts-and-bolts [recommendations](#recommendations) to schools, departments, and campus governance.
+
+A brief list of [resources](#resources) at the end of the document provides a point of comparison between some of the practices described here and those adopted within and beyond the SUNY system.
+
+**A core premise** of this document is that while the principles of good teaching do not vary across instructional modes, *the effective implementation of these principles does*. At present, most faculty embark on their careers as face-to-face teachers having had years of experience as face-to-face learners. Typically, they model their pedagogy on their firsthand experience of the best teachers they have had. In a small though growing number of cases, they have also had some formal introduction to effective face-to-face teaching methods. By contrast, very few faculty have had extensive experience themselves as online learners, let alone a formal introduction to effective online pedagogy. In order to promote success for both faculty and learners at Geneseo, it is necessary that faculty fully understand how the affordances of an online learning environment differ from those of a physical classroom. It is also necessary that the college\'s online learning experiences be designed in ways that leverage the affordances of the online environment and replicate, as nearly as possible, face-to-face affordances that are crucial to learning, such as frequent, low-barrier, personalized interaction between instructor and learners.
+
+**Another core premise** is that practices regarding such matters as the college\'s balance of offerings across instructional modes, faculty\'s distribution of load across these modes, and the evaluation of online instruction should remain flexible and, to the extent possible, *put power in the hands of schools and departments to make decisions and set expectations in accordance with their program objectives and disciplinary methods.* The document does not lay down many hard-and-fast rules, and for almost every rule it stipulates, it describes grounds for appropriate exceptions. More detailed guidance might appear to offer a smoother, more easily navigable route forward for the college, but it would do so at the price of forcing everyone along the same narrow path.
 
 ## <a name="definitions"></a> Definitions [&#8673;](#contents)
 
@@ -86,7 +93,9 @@ For similar reasons, the following are generally prohibited in Geneseo courses a
 
 -   Live video surveillance of learners, during an examination or other assessment, by the instructor or other proctor
 
-Exceptions may be made to the first prohibition above when there is a clear and close connection between learners' self-presentation online and a narrowly defined core learning outcome of the course: for example, in a course on communication in which a core outcome is the ability to deliver an effective online presentation. The same clear and close connection does not exist for more general outcomes such as "building community" or "participating effectively in discussion." Instructors may not require learners to turn their cameras on during synchronous online meetings in order to verify learners' identities or provide confirmation that they are actively engaged.
+Exceptions may be made to the first prohibition above when there is a clear and close connection between learners' self-presentation online and a narrowly defined core learning outcome of the course: for example, in a course on communication in which a core outcome is the ability to deliver an effective online presentation. The same clear and close connection does not exist for more general outcomes such as "building community" or "participating effectively in discussion." The prohibition against *requiring* students to use their cameras is not a prohibition against *inviting* or even *encouraging* them to do so in a manner that promotes equity, inclusion, and a sense of comfort, for example as described in [this study by two Cornell University Professors](https://doi.org/10.1002/ece3.7123) in the journal *Academic Practice in Ecology & Evolution*.
+
+Instructors may not require learners to turn their cameras on during synchronous online meetings in order to verify learners' identities or provide confirmation that they are actively engaged.
 
 ### Human-centered and equity-minded practice
 
@@ -135,6 +144,35 @@ Consistent with Geneseo Policy 4-405 and [Article XI, Title J of the Policies of
 In the absence of any contractual arrangement that prohibits it, instructors are free to apply a [Creative Commons license](https://creativecommons.org/about/cclicenses/) to original materials that they create, thereby making it easier for other instructors to benefit from their work.
 
 Learners generally retain intellectual property in original content that they create in response to course assignments. Such content may not be shared publicly without the creator's consent.
+
+## <a name="recommendations"></a> Recommendations [&#8673;](#recommendations)
+
+### Scheduling
+
+Schools and departments should:
+
+- Discuss and document plans for ongoing scheduling of courses across the range of instructional modes. In developing these plans, deans and department chairs should consult with the Office of the Dean of Academic Planning and Advising and the Office of the Provost. Questions to consider, in addition to those mentioned above under "Scheduling," include:
+
+    - Which courses in our school or department are best suited to modes other than F2F?
+    - How can we design a course intended for online participation so as to make it easy for any department member with the requisite expertise to step in and teach it?
+    - For any course, whatever the instructional mode, what enrollment is most consistent with the principles of human-centered and equity-minded practice described above&mdash;in particular with the principle that "the role of technology should be to promote engagement, build intrinsic motivation, enhance understanding, facilitate collaboration, share knowledge efficiently and effectively, spark creativity, or serve a similar purpose toward the end of advancing learners' development as human beings"?
+    - What impact might our scheduling plans have on other programs?
+    - How might we assess the impact of our scheduling decisions on learning?
+    
+- Ensure that their documented plans are shared within the school or department and with the Office of the Provost, and that they are regularly updated.
+
+### Program planning
+
+Schools and departments should discuss what mix of instructional modes best fits their programs as a whole. Questions to consider, in addition to those mentioned above under "Scheduling," include:
+
+- How might a given mix of instructional modes in a program help learners succeed by facilitating their progress through program requirements?
+- Does our program have outcomes (for example, related to informational and digital literacy) that our mix of instructional modes can help learners meet?
+- What regular rotation of courses across instructional modes is most consistent with our overall program objectives?
+- How might we assess the impact of this rotation on our program objectives? 
+
+### Evaluation of online teaching
+
+
 
 ## <a name="resources"></a> Resources [&#8673;](#contents)
 
