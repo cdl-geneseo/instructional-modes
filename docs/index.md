@@ -151,7 +151,7 @@ Learners generally retain intellectual property in original content that they cr
 
 Schools and departments should:
 
-- Discuss and document plans for ongoing scheduling of courses across the range of instructional modes. In developing these plans, deans and department chairs should consult with the Office of the Dean of Academic Planning and Advising and the Office of the Provost. Questions to consider, in addition to those mentioned above under "Scheduling," include:
+- Discuss and document plans for ongoing scheduling of courses across the range of instructional modes. In developing these plans, deans and department chairs should consult with the Office of the Dean of Academic Planning and Advising and the Office of the Provost. Questions to consider, in addition to those mentioned in the scheduling section of [Practices](#practices), above,include:
 
     - Which courses in our school or department are best suited to modes other than F2F?
     - How can we design a course intended for online participation so as to make it easy for any department member with the requisite expertise to step in and teach it?
@@ -163,7 +163,7 @@ Schools and departments should:
 
 ### Program planning
 
-Schools and departments should discuss what mix of instructional modes best fits their programs as a whole. Questions to consider, in addition to those mentioned above under "Scheduling," include:
+Schools and departments should discuss what mix of instructional modes best fits their programs as a whole. Questions to consider, in addition to those mentioned in the scheduling section of [Practices](#practices), above, include:
 
 - How might a given mix of instructional modes in a program help learners succeed by facilitating their progress through program requirements?
 - Does our program have outcomes (for example, related to informational and digital literacy) that our mix of instructional modes can help learners meet?
@@ -184,6 +184,7 @@ Schools and departments should:
 Campus governance should:
 
 - Consider whether to adopt policies regarding the documentation of effective online teaching parallel to those it has previously adopted for classroom observation
+- Consider working with the Office of the Provost and UUP to develop an online-specific version of the SOFI
 - Require professional development for the Faculty Personnel Committee to ensure that the committee members are able to evaluate documentation of effective online teaching
 
 Academic affairs administration should require professional development for deans and department chairs to ensure that they are able to evaluate documentation of effective online teaching.
