@@ -11,7 +11,7 @@
 
 As technology opens up new ways for teachers and learners to interact, and as Geneseo begins to think strategically about the resulting opportunities in relation to our mission and values, it is essential that we be guided by a **common vocabulary** and a **shared set of practices**.
 
-Recognizing that the most common instructional modes available today do not have universally accepted defintions, this document proposes [local definitions](#definitions) that are at once broadly aligned with common usage and tailored to our own institutional purposes. 
+Recognizing that the most common instructional modes available today do not have universally accepted defintions, this document establishes [local definitions](#definitions) that are at once broadly aligned with common usage and tailored to our own institutional purposes. 
 
 The document also articulates [practices](#practices) designed to ensure that as Geneseo expands its range of instructional modes, it does so in ways that **advance the development of both faculty and learners, promote equity, respect privacy, maintain accessibility, and preserve Geneseo\'s character** as a primarily residential college that cherishes close working relationships among faculty, staff, administrators, and learners.
 
