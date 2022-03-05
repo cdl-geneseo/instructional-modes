@@ -99,7 +99,7 @@ Instructors may not require learners to turn their cameras on during synchronous
 
 ### Human-centered and equity-minded practice
 
-Educational technology should always be used in ways that *put people first* and keep *equity* clearly and constantly in view. Across all instructional modes, the role of technology should be to promote engagement, build intrinsic motivation, enhance understanding, facilitate collaboration, share knowledge efficiently and effectively, spark creativity, or serve a similar purpose toward the end of advancing learners' development as human beings. The following are not good reasons to adopt a platform, service, or other tool: lack of trust in learners as people; aggregation of facts about learners' computer-mediated activities or habits of work without their knowledge.
+Educational technology should always be used in ways that *put people first* and keep *equity* clearly and constantly in view. **Across all instructional modes, the role of technology should be to promote engagement, build intrinsic motivation, enhance understanding, facilitate collaboration, share knowledge efficiently and effectively, spark creativity, or serve a similar purpose toward the end of advancing learners' development as human beings.** The following are not good reasons to adopt a platform, service, or other tool: lack of trust in learners as people; aggregation of facts about learners' computer-mediated activities or habits of work without their knowledge.
 
 In keeping with human-centered and equity-minded practice, the following apply:
 
