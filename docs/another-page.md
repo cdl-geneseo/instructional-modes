@@ -1,8 +1,6 @@
 ---
-title: "Another Page"
+title: "Decision tree"
 layout: default
 ---
 
-# This is a placeholder
-
-This page is just a placeholder.
+![decision tree](/images/dt1.jpg)
