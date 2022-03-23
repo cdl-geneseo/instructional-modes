@@ -158,8 +158,10 @@ Schools and departments should:
     - For any course, whatever the instructional mode, what enrollment is most consistent with the principles of human-centered and equity-minded practice described above&mdash;in particular with the principle that "the role of technology should be to promote engagement, build intrinsic motivation, enhance understanding, facilitate collaboration, share knowledge efficiently and effectively, spark creativity, or serve a similar purpose toward the end of advancing learners' development as human beings"?
     - What impact might our scheduling plans have on other programs?
     - How might we assess the impact of our scheduling decisions on learning?
-    
+
 - Ensure that their documented plans are shared within the school or department and with the Office of the Provost, and that they are regularly updated.
+
+A conversation between a dean or department chair and a faculty member interested in teaching a non-F2F course in an upcoming semester might look something like what we see in <a href="https://cdl-geneseo.github.io/instructional-modes/decisions.html" target="_blank">this decision diagram</a>.
 
 ### Program planning
 
