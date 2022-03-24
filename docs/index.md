@@ -232,6 +232,7 @@ Academic affairs administration should provide professional development to deans
 #### SUNY Geneseo
 
 -   [Course Readiness Checklist](https://wiki.geneseo.edu/display/cit/Canvas+Self+Help+Documents?preview=%2F110330071%2F156506486%2Fcourse+readiness+checklist+v3.pdf) (pdf)
+-   [Decision diagram](https://cdl-geneseo.github.io/instructional-modes/decisions.html) for scheduling faculty and courses in non-F2F modes 
 
 ### Privacy
 
